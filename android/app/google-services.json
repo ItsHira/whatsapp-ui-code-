@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "948794610764",
+    "project_id": "chatbees-7c805",
+    "storage_bucket": "chatbees-7c805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948794610764:android:9cfbfda6f76e4f543750e9",
+        "android_client_info": {
+          "package_name": "com.example.chatbees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948794610764-eo0kv9v0c0lol56bjjjukpsvftvb9n21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV159W98oMzfMykh2pKdCGkhqMMBMbPHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948794610764-eo0kv9v0c0lol56bjjjukpsvftvb9n21.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "948794610764-08ntisranl3vqegmghi6lpaepotgso1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatbees"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
